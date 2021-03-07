@@ -1,0 +1,7 @@
+Node Flow Link:
+
+https://node-red-xabwc-2021-02-22.eu-gb.mybluemix.net/red/#flow/b430297f.1dffc8
+
+Node-Red User Interface Link:
+
+https://node-red-xabwc-2021-02-22.eu-gb.mybluemix.net/ui/#!/0?socketid=3klXfIVpVSw4julsAAAK
